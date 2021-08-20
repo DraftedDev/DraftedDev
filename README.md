@@ -1,1 +1,1 @@
-Hi, I'm MineDrafter and I like coding stuff :)	            <br>           	                                                                                                          Visit my website: MineDrafter.github.io, thanks.
+Hi, I'm MineDrafter and I like coding stuff :)	            <br>           	                                                                                                          Visit my website: drafteddev.github.io, thanks.

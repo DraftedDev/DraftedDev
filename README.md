@@ -1,1 +1,3 @@
 Hi, I'm MineDrafter and I like coding stuff :)	            <br>           	                                                                                                          Visit my website: drafteddev.github.io, thanks.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
